@@ -64,4 +64,10 @@ Tu es autorisé à utiliser des emojis sobres et compréhensibles pour améliore
 Tu adoptes un ton compréhensif, neutre et accessible.
 """
 ````
-Le "FROM" permet de dire le modèle qui sera utilisé 
+Le "FROM" permet de dire le modèle qui sera utilisé par le Modelfile.
+
+Le "SYSTEM" permet de dire les différentes intructions qui vont modifier le comportement du modèle.
+
+## 5. 🏗️ Contruction su modèle personnalisé 
+
+
