@@ -1,2 +1,7 @@
-# ollama-personalization
-Ce projet présente l’installation de Ollama et la configuration d’un LLM personnalisé avec un Modelfile.
+# 🧠 Modèle personnalisé avec Ollama
+
+## 1. 🎯 Objectif
+Installer Ollama sur Linux, télécharger un modèle LLM, créer un modèle personnalisé via un Modelfile, puis tester son comportement en local.
+
+## 2. Prérequis
+
