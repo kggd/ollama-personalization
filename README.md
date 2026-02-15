@@ -68,6 +68,26 @@ Le "FROM" permet de dire le modèle qui sera utilisé par le Modelfile.
 
 Le "SYSTEM" permet de dire les différentes intructions qui vont modifier le comportement du modèle.
 
-## 5. 🏗️ Contruction su modèle personnalisé 
+## 5. 🏗️ Contruction du modèle personnalisé 
+Pour que le Modelfile soit utilsé par le modèle nous allons créer un nouveau modèle 
+````bash
+ollama create assit-fr -f Modelfile
+````
+Nous venons de créer le modèle "assist-fr".
+
+## 6. 🧑‍💻 Test du modèle personnalisé
+
+Pour le lancer le modèle personnalisée nous allons faire :
+````bash
+ollama run assit-fr
+````
+
+## 7. 🅰️ À savoir 
+
+Toute les données restent en local donc sur votre serveur 
+
+Les modèles une fois téléchargé fonctionne sans connexion.
+
+
 
 
